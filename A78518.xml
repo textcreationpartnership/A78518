@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Scotch papers. Delivered in the House of Commons in reply to the votes of both houses of the Parliament of England, concerning the disposall of the Kings person, as it was spoken when the said papers were read in the House. / By Thomas Chaloner Esquire, a Member of the House of Commons.</title>
+            <author>Chaloner, Thomas, 1595-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78518</idno>
+            <idno type="STC">Wing C1802</idno>
+            <idno type="STC">Thomason E361_7</idno>
+            <idno type="STC">ESTC R18165</idno>
+            <idno type="EEBO-CITATION">99860358</idno>
+            <idno type="PROQUEST">99860358</idno>
+            <idno type="VID">112478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E361[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Scotch papers. Delivered in the House of Commons in reply to the votes of both houses of the Parliament of England, concerning the disposall of the Kings person, as it was spoken when the said papers were read in the House. / By Thomas Chaloner Esquire, a Member of the House of Commons.</title>
+                  <author>Chaloner, Thomas, 1595-1661.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Last two lines of B1r in two settings: line 7 ends (1) "non-" or (2) "now-". C1 is signed (1) "C" or (2) "B". Setting 2 and signing 2 are clearly earlier.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112478:1"/>
+            <pb facs="tcp:112478:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE Scotch Papers.</p>
+            <p>Delivered In the Houſe of Commons in Reply to the Votes of both Houſes of the PARLIAMENT of England, Concerning diſpoſall of the Kings Perſon, As it was ſpoken when the ſaid Papers were read in the Houſe.</p>
+            <p>By <hi>Thomas Chaloner</hi> Eſquire, A Member of the Houſe of Commons.</p>
+            <p>London, Printed by <hi>Francis Leach,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:112478:2"/>
+            <pb n="1" facs="tcp:112478:2"/>
+            <head>A Speech made in the Houſe of Commons the 26th day of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1646. (upon the Reading of the Sco<g ref="char:EOLhyphen"/>tiſh Papers the ſame day, In Reply to the Votes of both Houſes of Parliament of the 24th. of Sept. concerning the diſpoſall of the Kings Perſon,) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poken by <hi>Thomas Chaloner,</hi> Eſquier, a Member of the ſaid Houſe.</head>
+            <opener>
+               <salute>Mr. <hi>SPEARKER,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have juſt now heard two Pa<g ref="char:EOLhyphen"/>pers Read before you from the Commiſſioners of <hi>Scotland,</hi> the firſt concerning the diſpoſall of the Kings Perſon, the other touching the diſtractions of the North, by reaſon (as they ſay of the now payment of their Army, I ſhall ſpeak nothing to the
+<pb n="2" facs="tcp:112478:3"/>latter, becauſe it hath beene ſo ſufficiently anſwered by divers knowing Members of this Houſe. To the firſt I ſhall wholly apply my ſelfe, becauſe little or nothing hath beene ſaid to that point.</p>
+            <p>The qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtion then before you is, about the diſ<g ref="char:EOLhyphen"/>poſe all of the Kings perſon, you ſay that, hee is to be diſpoſed of as both Houſes of Parliament ſhall think fitting, but your Brethren of <hi>Scotland</hi> ſay hee is to be diſpoſed of as both Kingdomes ſhall think ſitting, And they Fortifie their affirmation with theſe reaſons.</p>
+            <p>They ſay that he is not only King of <hi>England,</hi> but alſo King of <hi>Scotland,</hi> and as you have an intereſt in him, hee being King of <hi>England,</hi> ſo have they no leſſe intereſt in him hee being KING of <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> And as they have not the ſole intereſt in him, hee being KING of Scotland, be<g ref="char:EOLhyphen"/>cauſe they acknowledge with all, that hee is King of <hi>England,</hi> ſo have not you the ſole intereſt in him, he being King of <hi>England,</hi> becauſe they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſire you to remember, that he is alſo King of <hi>Scotland:</hi> ſo as nei<g ref="char:EOLhyphen"/>ther Na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion having a ſole, but a joynt Intereſt in his perſon, they ought joyntly to diſpoſe of it for the weale and benefit of both Kingdomes:</p>
+            <p>This I take to bee the whole ſcope of their Ar<g ref="char:EOLhyphen"/>gument wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch they have repreſented unto you un<g ref="char:EOLhyphen"/>der ſo many diſguiſes, and as it were by multiply<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:112478:3"/>glaſſes, Inſomuch as the bare relating of it takes up three la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g ſheets of paper.</p>
+            <p>B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> while they debate this great queſtion with you, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouching the diſpoſall of the Kings Perſon, and while they poſſicively <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, that he is to be diſpo<g ref="char:EOLhyphen"/>ſed of by the j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynt conſent of both Nations. Give me leave to remember you th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the meane time, they diſpoſe wholly of him themſelves, and ſo have done for theſe ſix months, and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y for ſix months longer, for any thing I can gather out of theſe Pa<g ref="char:EOLhyphen"/>pers.</p>
+            <div type="part">
+               <head>
+                  <hi>Their Argument runs thus.</hi> Whereſoever the Kingdome of <hi>Scotland</hi> hath an Intereſt in there King, there they may diſpoſe of him. But the Kingdome of <hi>Scotland</hi> hath an Intereſt in their King, he being in England. Therefore in <hi>England</hi> they may diſpoſe of him.</head>
+               <p>Sir, This may ſeeme at the firſt to ſome to be a faire and ſpecious Argument, but let it be well con<g ref="char:EOLhyphen"/>ſidered, it will prove erronious and Fallacious. For in the Major Propoſition they underſtand one thing by the word King, and in the minor Pro<g ref="char:EOLhyphen"/>poſition they underſtand another thing by the word King, and ſo here is a concluſion inferred,
+<pb n="4" facs="tcp:112478:4"/>which the premiſes will not warrant.</p>
+               <p>For the cleering whereof I pray Sir remember that this word King is of a various ſignification, ſometimes it is taken in <hi>abstracte,</hi> that is for the Roy. all power, Function, and office of a King, ſometimes it is taken in <hi>Concreto,</hi> that is for the man or perſon whom we call King.</p>
+               <p>If their Major Propoſition be taken in the firſt ſence, we ſhall never deny it them, nay wee ſhall ac<g ref="char:EOLhyphen"/>knowledge that the King of <hi>Scotland</hi> being taken in <hi>abstracte,</hi> wee have nothing to doe with him at all, hee is ſolely and totally theirs; God forbid that a King of <hi>Scotland</hi> going out of his Kingdome, ſhould either make <hi>Scotland</hi> ceaſe to bee a Kingdome, or give any participation of intereſt to that Countrey where hee doth reſide, let his perſon reſide in the furtheſt parts of the earth; yet the Royall Office and Capacity of the King reſideth ſtill in <hi>Scotland,</hi> they have his ſword to doe Iuſtice by, they have his Scepter to ſhew mercy by, they have his Seale to confirme what they pleaſe by: And they have his Lawes to Governe by; And in this ſenſe it is only meant that the King is never under yeares, never dyes, cannot bee deceived, can neither do wrong, nor take wrong, of any body; And in this ſenſe we fight for King and Parliament, though the perſon of the King bee in oppoſition to both, and in this ſenſe the returnes and teſts of the Kings, Writs are, <hi>Coram me ipſo apud VVeſtmonaſterium,</hi> and teſte, <hi>me
+<pb n="5" facs="tcp:112478:4"/>ipſo apud VVeſtmonaſterium,</hi> let the Perſon of the King at the ſame time be in <hi>France,</hi> or the remoteſt Country of the world, but a <hi>King</hi> of <hi>Scotland</hi> taken in their ſenſe is never out of <hi>Scotland,</hi> and therefore whereas they ſay in the minour Propoſition. That the Kingdome of <hi>Scotland,</hi> hath an intereſt in their King, he being in <hi>England,</hi> this muſt needs be meant of a King in <hi>Conereto,</hi> that is onely of the perſon of their King, and not of his Royall Capacity, And in this ſence we muſt deny that they have any thing at all to doe with him. For though the Royall Of<g ref="char:EOLhyphen"/>fice of the King of <hi>Scotland</hi> is ſolely to bee diſpoſed of by the State of <hi>Scotland:</hi> Yet it is not ſo with his Perſon. For <hi>Perſona ſequitur locam;</hi> and his perſon muſt be diſpoſed of by the ſupreame power of that Country whereſoever he ſhall happen to a<g ref="char:EOLhyphen"/>bide. Suppoſe a King of <hi>Scotland</hi> ſhould bee in <hi>Spaine,</hi> will they ſay they have as great an intereſt to diſpoſe of his Perſon there as in <hi>Scotland, I</hi> thinke they will not ſay ſo: and yet they did affirme laſt day at the Conference that they had, as good right to diſpoſe of his perſon at Weſtminſter, as they had at <hi>Edenburgh.</hi> But under their favour <hi>England</hi> is as diſtinct a Kingdome from <hi>Scotland</hi> as <hi>Spaine.</hi> It is as diſtinct in Lawes, diſtinct in Priviledges, diſtinct in intereſt, it is neither ſubordinate, no dependent of <hi>Scotland,</hi> and they can no more diſpoſe of a King of <hi>Scotlands</hi> perſon, he being in <hi>England,</hi> then if he were in <hi>Spaine.</hi>
+               </p>
+               <pb n="6" facs="tcp:112478:5"/>
+               <p>I ſhall take this as granted for good Law, that let the perſon of any Nation under the ſun, which is in amity wich <hi>England,</hi> happen to come i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>England,</hi> that perſon is forthwith a ſubject of <hi>ENGLAND</hi>
+               </p>
+               <p>For hee being protected by the Lawes of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> hee becomes thereby ſubject to thoſe Lawes, it being moſt certaine that <hi>Protectio trahit ſubjectio<g ref="char:EOLhyphen"/>nem, &amp; ſubjectio protectionem,</hi> they being relatives, the one cannot ſtand without the other, and as no man can be ſaid to be a father that hath no ſon, nor no man a husband, that hath no wife, ſo no man can bee ſaid to bee protected, that is not with<g ref="char:EOLhyphen"/>all thereby ſubjected. And ſince without ſuch pro<g ref="char:EOLhyphen"/>tection every man may kill him, and deſtroy him. It ſeemes to ſtand with no proportion of Juſtice, that a man ſhould bee protected in Life, Limbe, or eſtate by any law that will not ſubject himſelfe to that Law.</p>
+               <p>It cannot bee denyed, but that there is a twofold ſubjection legall, and locall, the legall ſubjection is due from every ſubject to his naturall Prince, the locall from any Forreigner to that Prince or State where his perſon doth reſide. And this, though it be onely <hi>pro tempore,</hi> and the other, during life: Yet it doth for the time totally obſtruct the operation of the other ſubjection: So that
+<pb n="7" facs="tcp:112478:5"/>no King can command any ſubject of his, living out of his Kingdome, but ſuch ſubject of his, is to bee diſpoſed of, by the ſole Au<g ref="char:EOLhyphen"/>thority of that ſupreame power, where hee makes his Reſidence: And ſince the que<g ref="char:EOLhyphen"/>ſtion is onely about the perſon of a King of <hi>Scotland,</hi> for I conceive they will not take up<g ref="char:EOLhyphen"/>on them any Authority to diſpoſe of the Perſon of a King of <hi>England,</hi> I doe affirme that if a King of <hi>Scotland</hi> ſhould have come into ENGLAND, before the Union of both theſe Kingdomes, hee had beene inſtantly a ſubject of England and his perſon to bee diſpoſed of by the ſole Authority of the Lawes of England.</p>
+               <p>For either wee muſt take him as a King or a Subject, ſince betwixt them two there is no medium, as a King wee cannot take him, unleſſe wee ſhould commit Treaſon againſt our naturall Prince, and ſubject our ſelves to any but to him, it being moſt cer<g ref="char:EOLhyphen"/>taine, that there is the ſame relation betwixt the King and his Subjects, as betwixt the
+<pb n="8" facs="tcp:112478:6"/>husband and his wife, and as no man can be ſaid to be a husband but to his own Wife; So no man can be ſaid ro be a King but to, his owne ſubjects, and therefore we cannot admit of any Regality in the perſon of a King of <hi>Scotland</hi> comming into <hi>England,</hi> un<g ref="char:EOLhyphen"/>leſſe at the ſame time, to the ſame perſon we ſhould confeſſe ſubjection. For that it is moſt true, that as none can be ſaid to be <hi>Rex ſine Regno,</hi> ſo no man can be ſaid to bee <hi>Rex</hi> but in <hi>Regno:</hi> Therefore if a King of <hi>Scotland</hi> comming as afore ſaid into <hi>England,</hi> if againſt the Lawes of England, hee doe offend, by thoſe Laws of <hi>England</hi> he muſt be tryed, &amp;c. by none other, <hi>Hoc ubi quis delinquit, ibi punie<g ref="char:EOLhyphen"/>tur,</hi> And it is moſt ſure that we have diſpo<g ref="char:EOLhyphen"/>ſed of the perſons of Kings of <hi>Scotland</hi> com<g ref="char:EOLhyphen"/>ming into <hi>England</hi> both living and dead. And if wee may diſpoſe of the perſon of a King of <hi>Scotland</hi> without the conſent of the Kingdome of SCOTLAND, much more may wee diſpoſe of the perſon of a King of ENGLAND, hee being now
+<pb n="9" facs="tcp:112478:6"/>in England without their privity or advice. But if they have any power to diſpoſe of him, it is becauſe they are either our Maſters or our Fellows: if they be our Maſters, let them ſhew the time when they conquerd us, or the price for which we were ſold unto them: If they be our Fellows, why come they not to our Parliaments, why contribute they not to our neceſſities? But as it is apparent that they being two diſtinct King<g ref="char:EOLhyphen"/>domes, governed by two diſtinct Lawes: ſo they ought not to intermeddle one with anothers inte<g ref="char:EOLhyphen"/>reſt; but to content themſelves with what doth naturally appertaine to each of them ſeverally.</p>
+               <p>There is no doubt to be made, but that every Husband hath as great an intereſt in the perſon of his wife, as any Subject hath in the perſon of his Soveraigne; and yet a man may loſe that in<g ref="char:EOLhyphen"/>tereſt by ſome act of his Wives, as if ſhe commit Felony, Murder, or Treaſon, the Law diſpoſeth of her perſon, and her husband cannot claime any right, ſo much as to her dead body: ſo fareth it with a King, who by going out of his Kingdome, or by being taken priſoner by his enemies, his Subject loſe the intereſt they had in him, and he is at the diſpoſall of his enemies <hi>Jure belli. John</hi> King of England was cited to appeare at Paris to anſwer for the death of <hi>Arthur Planta<g ref="char:EOLhyphen"/>genet</hi> Duke of Britaine whom hee had murthe<g ref="char:EOLhyphen"/>red; the State of England would not let him goe, as holding it a great indignity and incon<g ref="char:EOLhyphen"/>gruity that a King of England ſhould anſwer for
+<pb n="10" facs="tcp:112478:7"/>any thing at Paris right or wrong; The French anſwered that they cited him not as King of England, but as Duke of Normandy; as King of England they acknowledged to have nothing to doe with him, he was in that reſpect without them and beyond them; but as Duke of Nor<g ref="char:EOLhyphen"/>mandy which he held in fee of the Crown of France, he owed fealty and allegiance for the ſame to the Crowne of France, and therefore ought to anſwer. The Engliſh replied, that if the Duke of Normandy did goe, the King of Eng<g ref="char:EOLhyphen"/>land muſt goe; and if the Duke of Normandy were beheaded, they knew well enough what would become of the King of England; Upon large debate hereof by all the Lawyers in France it was reſolved that if <hi>John</hi> had been in Nor<g ref="char:EOLhyphen"/>mandy at the time of his ſummons he ought to have appeared; but he bekig <hi>Extra juriſdictio<g ref="char:EOLhyphen"/>nem Regni Fraciae</hi> at the time of his ſummons, and <hi>infra juriſaictionem Regni Angliae,</hi> though legally he were a ſubeject of France, yet locally he being in England, his ſummons was voyd, and hee forfeited nothing by his non-appea<g ref="char:EOLhyphen"/>rance.</p>
+               <p>I will onely urge one argument more deduced from a knowne maxime of the Law, not of England but of Scotland alſo, which the Commiſ<g ref="char:EOLhyphen"/>ſioners of Scotland the other day at the Confe<g ref="char:EOLhyphen"/>rence did cite themſelves, in my opinion much againſt themſelves, and that is this, <hi>Quando Duo Tura, i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oDuo Regna</hi> (ſayth a great Lawyer) <hi>con<g ref="char:EOLhyphen"/>currant
+<pb n="11" facs="tcp:112478:7"/>in una perſona, aequum eſt ac ſi eſſent in di<g ref="char:EOLhyphen"/>verſis,</hi> which is no more then this, when two kingdomes held by two diſtinct Titles doe con<g ref="char:EOLhyphen"/>cur in one and the ſame perſon, it is all one as if they were in two diſtinct perſons. I ſuppoſe here is our very caſe, here are two kingdomes, England and Scotland, held by two diſtinct Titles, which doe both concur in one Perſon, in the perſon of King CHARLES; it is all one ſayth this rule and maxime of the Law, as if they were under two ſeverall perſons; why then put the caſe, that there were one King of England and another of Scotland, ſhould the State of Scotland have any thing to doe to diſ<g ref="char:EOLhyphen"/>poſe of the perſon of a King of England, he being in England? I thinke you will ſay they could not.</p>
+               <p>Sir, I am ſorry that our brethren have moved this queſtion at this time; for all queſtions make debates, and debates differences; and this were a time for brothers to reconcile differences ra<g ref="char:EOLhyphen"/>ther then to make them; we have now lived 44 yeeres, both under two Princes, and in all this time this queſtion was never ſtirred in, till now; had it been ſtirred in, no queſtion but it had been rejected. The people of England would have held it very ſtrange that they could not have diſpoſed of the perſon of their owne King, or that a King of England could not have gone from Whitehall to Richmond or Hampton-court with<g ref="char:EOLhyphen"/>out
+<pb n="12" facs="tcp:112478:8"/>the will and appointment of the Councell of Scotland: they would have thought they had made an evill bargaine by ſuch a union. For before the union they might have diſpo<g ref="char:EOLhyphen"/>ſed of the perſon of their Prince; but after, not. And ſince they conceived that by the addi<g ref="char:EOLhyphen"/>tion of Scotland there was an addition of charge, they would have been very ſorry withall to have had an addition of ſervility.</p>
+               <p>Since the beginning of the World there was never before ſuch a contention about the perſon of a King. The Greekes and Trojans did con<g ref="char:EOLhyphen"/>tend for a long time in ſight about the dead body of <hi>Partroclus</hi> which of them ſhould have it. But here is not a contention about the dead body of a private man, but about the living body of a King; neither doe we contend as they did, who ſhould have his perſon, but here you do contend (as farre as I conceive) who ſhould not have it. Your brethren of Scotland ſay poſitively they will not have the Kings perſon upon any condi<g ref="char:EOLhyphen"/>tions whatſoever. It is now above ſix moneths paſt that you voted in this Houſe the demanding of the Kings perſon, but the Lords refuſed to joyne with ye; ever ſince untill this preſent you your ſelfe did Acquieſce as if you had repented of your former vote; Now he muſt be put upon you, and with ſuch termes as his preſent Gardians pleaſe to allow of.</p>
+               <pb n="13" facs="tcp:112478:8"/>
+               <p>Truly it ſeemes ſtrange to me, that an Army of Scots in pay of the kingdome of England, which by the Treaty ought to be governed by the joynt conſent of the Committees of both kingdomes upon the place, ſhould in England take a King of England without the privity of the Engliſh Committee, and convey him to New<g ref="char:EOLhyphen"/>caſtle a Towre likewiſe of England, and ſhould there keepe him for ſix whole moneths without the conſent of both Houſes of Parliament. And when they f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde it not convenient for them to keepe him any longer, then they will capitulate with you upon what conditions you muſt receive his perſon.</p>
+               <p>I never thought to have found a King of Eng<g ref="char:EOLhyphen"/>land perſon being in England, under any o<g ref="char:EOLhyphen"/>ther protection but that of the Lawes of Eng<g ref="char:EOLhyphen"/>land; but now I finde him under the protection of a Scottiſh Army, whether they ſay hee is fled for ſhelter, and that they cannot render him up in Honour.</p>
+               <p>Sir, if that Army of theirs be come into this kingdome as brethren, friends, and confederates (as we hope they are) then is every perſon of that Army during the time of his ſtay here locally a ſubject of England, and ſuch children as are borne to them here are not Aliens but Deniſons, and not onely locall but legall Subjects of this kingdome. And therefore they having gotten
+<pb n="14" facs="tcp:112478:9"/>the King into their hands, they ought no more to capitulate upon what terms he ſhould be de<g ref="char:EOLhyphen"/>livered into yours, then if the Army of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> were in poſſeſſion thereof, who if they ſhould deny the ſurrendring of the King unto you, but upon condition, no queſtion but it were capitall.</p>
+               <p>They ſay, that by vertue of the Covenant they are obliged to defend his Perſon and Authority. What his Authority is in Scotland themſelves beſt know; hut you onely are to judge of it in England, ſince being not ſubordinate to any power on Earth, there is no power under Hea<g ref="char:EOLhyphen"/>ven can judge you. The Covenant ties you to maintaine in the firſt place the Rights of Parlia<g ref="char:EOLhyphen"/>ment, and the liberties of the Kingdome; and in the ſecond place the Kings Perſon and Autho<g ref="char:EOLhyphen"/>ritys; and that onely in defence of the former, and not otherwiſe. And whereas they expect the King ſhould be received by you with Ho<g ref="char:EOLhyphen"/>nour, ſafety, and freedome, I beleech you, Sir, conſider whether (as the caſe now ſtands) his Reception with Honour can ſtand with the Ho<g ref="char:EOLhyphen"/>nour of the Kingdome, whether his ſafety be not incompatible with the ſafety of the Common-wealth, and whether his freedome be not incon<g ref="char:EOLhyphen"/>ſiſtent with the freedome of the people.</p>
+               <p>I pray (Sir) take heed leaſt that bringing him in with Honour you doe not diſhonour your
+<pb n="15" facs="tcp:112478:9"/>ſelfe, and queſtion the very juſtice of all your Actions; be wary that in receiving him with ſafety you doe not thereby endanger and hazard the Common-wealth; be adviſed leaſt in bring<g ref="char:EOLhyphen"/>ing him home with freedome, you doe not there<g ref="char:EOLhyphen"/>by lead the people of England in thraldome.</p>
+               <p>I pray (Sir) firſt ſettle the honour, ſafety and freedome of the Common-wealth, and then the honour, ſafety, and freedome of the King, ſo far as the latter may ſtand with the former, and not otherwiſe.</p>
+               <p>Wherefore I ſhall conclude with my humble deſire that you would adhere to your former vote that is, that the King be diſpoſed of as both Hou<g ref="char:EOLhyphen"/>ſes of Parliament ſhall thinke fitting; and that you enter into no Treaty either with the King or your brethren of Scotland, leaſt otherwiſe thereby you retard the going home of their Army out of England.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
